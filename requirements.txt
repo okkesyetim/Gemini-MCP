@@ -1,0 +1,4 @@
+mcp[cli]
+google-generativeai
+python-dotenv
+httpx
